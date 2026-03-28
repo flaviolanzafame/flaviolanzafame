@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Flavio 👋
 
-<!--
-**flaviolanzafame/flaviolanzafame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student | Developer & Graphic Designer**  
 
-Here are some ideas to get you started:
+I enjoy combining coding and design to create meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### [SafeGuard AI](https://github.com/flaviolanzafame/SafeGuard-AI) 🛡️
+SafeGuard AI is a Smart Home Security system designed to reduce false alarms while maintaining real protection.  
+It uses machine learning to classify events from sensors, alerting only when necessary.  
+Developed as part of an AI course within the RiseVET program.  
+
+Technologies: Python, IoT sensors, Random Forest Classifier
