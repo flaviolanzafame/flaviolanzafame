@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Flavio!  
 
+
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="./flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/sicily-flag.svg" width="20" alt="SC"/> Sicilian](README.sc.md)
+
+---
+
 I'm a developer and graphic designer from Sicily, Italy. I bring ideas to life through code and design. I love these worlds and enjoy continuously learning new things.
 
 I've been passionate about computers and graphics since I was a kid — from making birthday cards to experimenting with digital tools. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
