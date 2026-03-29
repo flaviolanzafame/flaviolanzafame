@@ -1,13 +1,23 @@
-## Hi, I'm Flavio 👋
+# 👋 Hi, I'm Flavio!  
 
-**Computer Science student | Developer & Graphic Designer**  
+I'm a developer and graphic designer from Sicily, Italy. I combine programming and visual design to create projects that are functional, engaging, and aesthetically pleasing. I love these worlds and enjoy continuously learning new things.  
 
-I enjoy combining coding and design to create meaningful projects.
+I've been passionate about computers and graphics since I was a kid — from making birthday cards to experimenting with digital tools. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
-## 🚀 Featured Project
-### [SafeGuard AI](https://github.com/flaviolanzafame/SafeGuard-AI) 🛡️
-SafeGuard AI is a Smart Home Security system designed to reduce false alarms while maintaining real protection.  
-It uses machine learning to classify events from sensors, alerting only when necessary.  
-Developed as part of an AI course within the RiseVET program.  
+I work on freelance projects for various clients, including [**PowerUp**](powerupasd.it), a sports association with two gyms in Sicily, creating brand identity, websites, social media content, and print materials.  
 
-Technologies: Python, IoT sensors, Random Forest Classifier
+---
+
+## 🛠 Skills & Tools  
+
+**Programming:** C, C++, Python  
+**Design & Visual Tools:** Figma, Adobe Illustrator, Inkscape, branding, layouts, content creation  
+
+---
+
+## 📫 Get in Touch  
+
+📧 Email: [flaviolanzafame@proton.me](mailto:flaviolanzafame@proton.me)  
+💼 LinkedIn: [in/flavio-lanzafame](https://linkedin.com/in/flavio-lanzafame)  
+🎨 Behance: [@lanzafameflavio](https://www.behance.net/lanzafameflavio)  
+📸 Instagram: [@flavio_lanzafame](https://instagram.com/flavio_lanzafame)
