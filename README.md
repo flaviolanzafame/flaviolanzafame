@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Flavio!  
 
-I'm a developer and graphic designer from Sicily, Italy. I combine programming and visual design to create projects that are functional, engaging, and aesthetically pleasing. I love these worlds and enjoy continuously learning new things.  
+I'm a developer and graphic designer from Sicily, Italy. I bring ideas to life through code and design. I love these worlds and enjoy continuously learning new things.
 
 I've been passionate about computers and graphics since I was a kid — from making birthday cards to experimenting with digital tools. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
