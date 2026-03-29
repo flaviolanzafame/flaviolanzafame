@@ -4,9 +4,9 @@
 
 ---
 
-Sono uno sviluppatore e graphic designer dalla Sicilia, Italia. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
+Sviluppatore e graphic designer dalla Sicilia, Italia. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
 
-Sono appassionato di computer e grafica fin da piccolo, dai biglietti di auguri che realizzavo agli esperimenti con strumenti digitali. Col tempo ho sviluppato sia le mie competenze di programmazione sia quelle di design, concentrandomi sempre sull’imparare facendo.  
+Appassionato di computer e grafica fin da piccolo, dai biglietti di auguri che realizzavo agli esperimenti con strumenti digitali. Col tempo ho sviluppato sia le mie competenze di programmazione sia quelle di design, concentrandomi sempre sull’imparare facendo.  
 
 Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupasd.it), un’associazione sportiva con due palestre in Sicilia, occupandomi di identità visiva, siti web, contenuti per i social media e materiali stampati.  
 
