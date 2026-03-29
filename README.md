@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Flavio!  
+# 👋 Hello, I'm Flavio!  
 
 
 🌍 This README is available in:&nbsp;&nbsp;[**<img src="./flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/sicily-flag.svg" width="20" alt="SC"/> Sicilian](README.sc.md)
