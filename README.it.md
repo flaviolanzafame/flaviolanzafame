@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Ciao, sono Flavio!  
+# 👋 Ciao, sono Flavio  
 
 Sviluppatore e graphic designer siciliano. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
 
