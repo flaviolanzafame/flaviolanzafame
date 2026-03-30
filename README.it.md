@@ -14,7 +14,7 @@ Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupas
 
 ## 🛠 Competenze e strumenti  
 
-**Programmazione:** C, C++, Python, HTML, CSS
+**Programmazione:** C, C++, Python, HTML, CSS  
 **Design e strumenti Visivi:** Figma, Adobe Illustrator, Inkscape, branding, layout, creazione di contenuti  
 
 ---
