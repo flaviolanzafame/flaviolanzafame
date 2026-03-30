@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hello, I'm Flavio!  
+# 👋 Hello, I'm Flavio  
 
 I'm a developer and graphic designer from Sicily, Italy. I bring ideas to life through code and design. I love these worlds and enjoy continuously learning new things.
 
