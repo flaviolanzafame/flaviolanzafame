@@ -4,9 +4,9 @@
 
 # 👋 Ciau, sugnu Flavio!  
 
-Sugnu nu sviluppaturi e graphic designer di Sicilia, Italia. Anemu l’idee cu a programmazione e design. Amu sti munnu e 'mparari sempri cosi novi.  
+Sugnu nu sviluppaturi e graphic designer sicilianu. Anemu l’idee cu a programmazione e 'u design. Amu sti munnu e 'mparari sempri cosi novi.  
 
-Sugnu appassiunatu di computer e grafica finu di picciriddu, di li biglietti di auguri chi facìva a li sperimenti cu strumenti digitali. Cu lu tempu haiu sviluppatu sia li me capacità di programmazioni sia chidde di design, sempri concentratu supra l’imparari facennu.  
+Sugnu appassiunatu di computer e grafica finu di picciddu, di li biglietti d'auguri chi facìva a li sperimenti cu li strumenti digitali. C'u tempu haiu sviluppatu sia li mie capacità di programmazioni sia chidde di design, sempri concentratu supra l’imparari facennu.  
 
 Travagghiu a progetti freelance pi diversi clienti, tra cui [**PowerUp**](powerupasd.it), n’assuciazzioni sportiva cu dui palestre in Sicilia, occupannumi di identità visiva, sito web, cuntinuti pi le social media e materiali stampati.  
 
@@ -19,7 +19,7 @@ Travagghiu a progetti freelance pi diversi clienti, tra cui [**PowerUp**](poweru
 
 ---
 
-## 📫 Contatti  
+## 📫 Sintimmuni  
 
 📧 Email: [flaviolanzafame@proton.me](mailto:flaviolanzafame@proton.me)  
 💼 LinkedIn: [in/flavio-lanzafame](https://linkedin.com/in/flavio-lanzafame)  
