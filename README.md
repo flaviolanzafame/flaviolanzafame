@@ -12,6 +12,12 @@ I work on freelance projects for various clients, including [**PowerUp**](poweru
 
 ---
 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&background=EB545400" alt="GitHub Streak" /></a>
+</p>
+
+---
+
 ## 🛠 Skills & Tools
 
 ### Languages
