@@ -12,12 +12,6 @@ I work on freelance projects for various clients, including [**PowerUp**](poweru
 
 ---
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&background=EB545400" alt="GitHub Streak" /></a>
-</p>
-
----
-
 ## 🛠 Skills & Tools
 
 ### Languages
@@ -31,7 +25,6 @@ I work on freelance projects for various clients, including [**PowerUp**](poweru
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/)
 
-
 ---
 
 ## 📫 Get in Touch  
@@ -40,3 +33,9 @@ I work on freelance projects for various clients, including [**PowerUp**](poweru
 [![Email](https://img.shields.io/badge/Email-flaviolanzafame@proton.me-c14438?style=for-the-badge&logo=mail&logoColor=white)](mailto:flaviolanzafame@proton.me)
 [![Behance](https://img.shields.io/badge/Behance-%40lanzafameflavio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lanzafameflavio)
 [![Instagram](https://img.shields.io/badge/Instagram-%40lanzafame_flavio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lanzafame_flavio)
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&background=EB545400" alt="GitHub Streak" /></a>
+</p>
