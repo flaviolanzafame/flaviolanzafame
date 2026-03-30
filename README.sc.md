@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Ciau, sugnu Flavio!  
+# 👋 Ciau, sugnu Flavio  
 
 Sugnu nu sviluppaturi e graphic designer sicilianu. Anemu l’idee cu a programmazione e 'u design. Amu sti munnu e 'mparari sempri cosi novi.  
 
