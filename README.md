@@ -14,7 +14,7 @@ I work on freelance projects for various clients, including [**PowerUp**](poweru
 
 ## 🛠 Skills & Tools
 
-### Languages & Tech
+### Languages
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
