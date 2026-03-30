@@ -15,7 +15,7 @@ I work on freelance projects for various clients, including [**PowerUp**](poweru
 
 ## 🛠 Skills & Tools  
 
-**Programming:** C, C++, Python, HTML, CSS
+**Programming:** C, C++, Python, HTML, CSS  
 **Design & Visual Tools:** Figma, Adobe Illustrator, Inkscape, branding, layouts, content creation  
 
 ---
