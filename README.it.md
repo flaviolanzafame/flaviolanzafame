@@ -4,7 +4,7 @@
 
 ---
 
-Sviluppatore e graphic designer dalla Sicilia, Italia. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
+Sviluppatore e graphic designer siciliano. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
 
 Appassionato di computer e grafica fin da piccolo, dai biglietti di auguri che realizzavo agli esperimenti con strumenti digitali. Col tempo ho sviluppato sia le mie competenze di programmazione sia quelle di design, concentrandomi sempre sull’imparare facendo.  
 
@@ -14,7 +14,7 @@ Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupas
 
 ## 🛠 Competenze e strumenti  
 
-**Programmazione:** C, C++, Python  
+**Programmazione:** C, C++, Python, HTML, CSS
 **Design e strumenti Visivi:** Figma, Adobe Illustrator, Inkscape, branding, layout, creazione di contenuti  
 
 ---
