@@ -33,3 +33,9 @@ Travagghiu a progetti freelance pi diversi clienti, tra cui [**PowerUp**](poweru
 [![Email](https://img.shields.io/badge/Email-flaviolanzafame@proton.me-c14438?style=for-the-badge&logo=mail&logoColor=white)](mailto:flaviolanzafame@proton.me)
 [![Behance](https://img.shields.io/badge/Behance-%40lanzafameflavio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lanzafameflavio)
 [![Instagram](https://img.shields.io/badge/Instagram-%40lanzafame_flavio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lanzafame_flavio)
+
+---
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&locale=it&background=EB545400" alt="GitHub Streak" /></a>
+</p>
