@@ -1,8 +1,8 @@
-# 👋 Ciao, sono Flavio!  
-
 🌍 This README is available in:&nbsp;&nbsp;[<img src="./flags/gb-flag.svg" width="20" alt="EN"/> English](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;**[<img src="./flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)**&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/sicily-flag.svg" width="20" alt="SC"/> Sicilian](README.sc.md)
 
 ---
+
+# 👋 Ciao, sono Flavio!  
 
 Sviluppatore e graphic designer siciliano. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
 
