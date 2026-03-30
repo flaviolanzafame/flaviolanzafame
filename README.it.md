@@ -24,4 +24,4 @@ Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupas
 📧 Email: [flaviolanzafame@proton.me](mailto:flaviolanzafame@proton.me)  
 💼 LinkedIn: [in/flavio-lanzafame](https://linkedin.com/in/flavio-lanzafame)  
 🎨 Behance: [@lanzafameflavio](https://www.behance.net/lanzafameflavio)  
-📸 Instagram: [@flavio_lanzafame](https://instagram.com/flavio_lanzafame)
+📸 Instagram: [@lanzafame_flavio](https://instagram.com/lanzafame_flavio)
