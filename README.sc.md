@@ -1,8 +1,8 @@
-# 👋 Ciau, sugnu Flavio!  
-
 🌍 This README is available in:&nbsp;&nbsp;[<img src="./flags/gb-flag.svg" width="20" alt="EN"/> English](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)&nbsp;&nbsp;·&nbsp;&nbsp;**[<img src="./flags/sicily-flag.svg" width="20" alt="SC"/> Sicilian](README.sc.md)**
 
 ---
+
+# 👋 Ciau, sugnu Flavio!  
 
 Sugnu nu sviluppaturi e graphic designer di Sicilia, Italia. Anemu l’idee cu a programmazione e design. Amu sti munnu e 'mparari sempri cosi novi.  
 
