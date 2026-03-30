@@ -8,7 +8,7 @@ Sviluppatore e graphic designer siciliano. Creo cose che siano belle da vedere e
 
 Appassionato di computer e grafica fin da piccolo, dai biglietti di auguri che realizzavo agli esperimenti con strumenti digitali. Col tempo ho sviluppato sia le mie competenze di programmazione sia quelle di design, concentrandomi sempre sull’imparare facendo.  
 
-Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupasd.it), un’associazione sportiva con due palestre in Sicilia, occupandomi di identità visiva, siti web, contenuti per i social media e materiali stampati.  
+Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](https://powerupasd.it), un’associazione sportiva con due palestre in Sicilia, occupandomi di identità visiva, siti web, contenuti per i social media e materiali stampati.  
 
 ---
 
