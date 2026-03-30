@@ -5,7 +5,7 @@ I build things that look good and work well. I love these worlds and enjoy conti
 
 I've been passionate about computers and graphics since I was a kid — from making birthday cards to experimenting with digital tools. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
-I'm currently a student at **[ITET M. Rapisardi - L. da Vinci](https://www.rapisardidavinci.edu.it/)** in Caltanissetta, specializing in **Computer Science & Telecommunications** — Computer Science track
+I'm currently studying at **[ITET M. Rapisardi - L. da Vinci](https://www.rapisardidavinci.edu.it/)** in Caltanissetta, specializing in **Computer Science & Telecommunications** — Computer Science track.
 
 I work on freelance projects for various clients, including [**PowerUp**](https://powerupasd.it), a sports association with two gyms in Sicily, creating brand identity, website, social media content, and print materials.  
 
