@@ -36,5 +36,5 @@ Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupas
 
 ---
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&locale=it&background=EB545400" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&locale=it&card_width=990&background=EB545400" alt="GitHub Streak" /></a>
 </p>
