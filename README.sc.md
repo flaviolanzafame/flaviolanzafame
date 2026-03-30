@@ -8,7 +8,7 @@ Sugnu nu sviluppaturi e graphic designer sicilianu. Fazzu cosi ca su bidde a tal
 
 Sugnu appassiunatu di computer e grafica finu di picciddu, di li biglietti d'auguri chi facìva a li sperimenti cu li strumenti digitali. C'u tempu haiu sviluppatu sia li mie capacità di programmazioni sia chidde di design, sempri concentratu supra l’imparari facennu.  
 
-Travagghiu a progetti freelance pi diversi clienti, tra cui [**PowerUp**](powerupasd.it), n’assuciazzioni sportiva cu dui palestre in Sicilia, occupannumi di identità visiva, sito web, cuntinuti pi le social media e materiali stampati.  
+Travagghiu a progetti freelance pi diversi clienti, tra cui [**PowerUp**](https://powerupasd.it), n’assuciazzioni sportiva cu dui palestre in Sicilia, occupannumi di identità visiva, sito web, cuntinuti pi le social media e materiali stampati.  
 
 ---
 
