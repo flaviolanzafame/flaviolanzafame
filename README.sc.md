@@ -1,6 +1,6 @@
 # 👋 Ciau, sugnu Flavio!  
 
-🌍 This README is available in:&nbsp;&nbsp;[**<img src="./flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/sicily-flag.svg" width="20" alt="SC"/> Sicilian](README.sc.md)
+🌍 This README is available in:&nbsp;&nbsp;[**<img src="./flags/gb-flag.svg" width="20" alt="EN"/> English**](README.md)&nbsp;&nbsp;·&nbsp;&nbsp;[<img src="./flags/it-flag.svg" width="20" alt="IT"/> Italian](README.it.md)&nbsp;&nbsp;·&nbsp;&nbsp;**[<img src="./flags/sicily-flag.svg" width="20" alt="SC"/> Sicilian](README.sc.md)**
 
 ---
 
@@ -24,4 +24,4 @@ Travagghiu a progetti freelance pi diversi clienti, tra cui [**PowerUp**](poweru
 📧 Email: [flaviolanzafame@proton.me](mailto:flaviolanzafame@proton.me)  
 💼 LinkedIn: [in/flavio-lanzafame](https://linkedin.com/in/flavio-lanzafame)  
 🎨 Behance: [@lanzafameflavio](https://www.behance.net/lanzafameflavio)  
-📸 Instagram: [@flavio_lanzafame](https://instagram.com/flavio_lanzafame)
+📸 Instagram: [@lanzafame_flavio](https://instagram.com/lanzafame_flavio)
