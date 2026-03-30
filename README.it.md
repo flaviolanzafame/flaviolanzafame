@@ -4,7 +4,7 @@
 
 # 👋 Ciao, sono Flavio  
 
-Sviluppatore e graphic designer siciliano. Animo le idee attraverso programmazione e design. Amo questi mondi e imparare sempre cose nuove.  
+Sviluppatore e graphic designer siciliano. Creo cose che siano belle da vedere e funzionali.
 
 Appassionato di computer e grafica fin da piccolo, dai biglietti di auguri che realizzavo agli esperimenti con strumenti digitali. Col tempo ho sviluppato sia le mie competenze di programmazione sia quelle di design, concentrandomi sempre sull’imparare facendo.  
 
@@ -14,14 +14,22 @@ Lavoro a progetti freelance per diversi clienti, tra cui [**PowerUp**](powerupas
 
 ## 🛠 Competenze e strumenti  
 
-**Programmazione:** C, C++, Python, HTML, CSS  
-**Design e strumenti visivi:** Figma, Adobe Illustrator, Inkscape, branding, layout, creazione di contenuti  
+### Linguaggi
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### Design
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/)
 
 ---
 
 ## 📫 Rimaniamo in contatto  
 
-📧 Email: [flaviolanzafame@proton.me](mailto:flaviolanzafame@proton.me)  
-💼 LinkedIn: [in/flavio-lanzafame](https://linkedin.com/in/flavio-lanzafame)  
-🎨 Behance: [@lanzafameflavio](https://www.behance.net/lanzafameflavio)  
-📸 Instagram: [@lanzafame_flavio](https://instagram.com/lanzafame_flavio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Lanzafame-0A66C2?style=for-the-badge)](https://linkedin.com/in/flavio-lanzafame)
+[![Email](https://img.shields.io/badge/Email-flaviolanzafame@proton.me-c14438?style=for-the-badge&logo=mail&logoColor=white)](mailto:flaviolanzafame@proton.me)
+[![Behance](https://img.shields.io/badge/Behance-%40lanzafameflavio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/lanzafameflavio)
+[![Instagram](https://img.shields.io/badge/Instagram-%40lanzafame_flavio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lanzafame_flavio)
