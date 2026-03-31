@@ -1,7 +1,7 @@
 # Hello, I'm Flavio 👋  
 
 I'm a developer and graphic designer from Sicily, Italy.  
-I build things that look good and work well. I love these worlds and enjoy continuously learning new things.
+**I build things that look good and work well.** I love these worlds and enjoy continuously learning new things.
 
 I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
@@ -26,5 +26,5 @@ I work on freelance projects for various clients, including [**PowerUp**](https:
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&border_radius=0&card_width=990&background=EB545400" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=flaviolanzafame&theme=highcontrast&hide_border=true&card_width=650&background=EB545400" alt="GitHub Streak" /></a>
 </p>
