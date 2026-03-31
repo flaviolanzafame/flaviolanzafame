@@ -3,7 +3,7 @@
 I'm a developer and graphic designer from [Sicily](https://en.wikipedia.org/wiki/Sicily), Italy.  
 **I build things that look good and work well.** I love these worlds and enjoy continuously learning new things.
 
-🖥️ I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
+I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
 📚 I'm currently studying at [ITET M. Rapisardi - L. da Vinci](https://www.rapisardidavinci.edu.it/) in Caltanissetta, specializing in **Computer Science & Telecommunications** — Computer Science track.
 
