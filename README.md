@@ -1,4 +1,4 @@
-# Hello, I'm Flavio 👋  
+# 👋 Hello, I'm Flavio
 
 I'm a developer and graphic designer from [Sicily](https://en.wikipedia.org/wiki/Sicily), Italy.  
 **I build things that look good and work well.** I love these worlds and enjoy continuously learning new things.
