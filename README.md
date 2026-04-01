@@ -13,7 +13,10 @@ I've been passionate about computers and graphics since I was 4 years old — fr
 
 ## 🛠 Skills & Tools
 
-### 🖥️ Tech Stack (currently learning)
+### 🖥️ Tech Stack
+#### (currently learning and building)
+
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
