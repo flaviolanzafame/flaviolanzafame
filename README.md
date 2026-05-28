@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Flavio
 
-I'm a developer and graphic designer from [Sicily](https://en.wikipedia.org/wiki/Sicily), Italy. **I build things that look good and work well.**
+I'm a developer and graphic designer from Sicily, Italy. **I build things that look good and work well.**
 
 I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. I love these worlds and enjoy continuously learning new things. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
