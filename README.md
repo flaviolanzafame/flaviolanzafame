@@ -4,9 +4,9 @@ I'm a developer and graphic designer from Sicily, Italy. **I build things that l
 
 I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. I love these worlds and enjoy continuously learning new things. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
 
-📚 I'm currently studying at [ITET M. Rapisardi - L. da Vinci](https://www.rapisardidavinci.edu.it/) in Caltanissetta, specializing in **Computer Science & Telecommunications** — Computer Science track.
+📚 I'm currently studying at ITET M. Rapisardi - L. da Vinci in Caltanissetta, specializing in **Computer Science & Telecommunications** — Computer Science track.
 
-👨‍💻 I work on freelance projects for various clients, including [PowerUp](https://powerupasd.it), a sports association with two gyms in Sicily, creating brand identity, website, social media content, and print materials.  
+👨‍💻 I work on freelance projects for various clients, including PowerUp, a sports association with two gyms in Sicily, creating brand identity, website, social media content, and print materials.  
 
 ---
 
