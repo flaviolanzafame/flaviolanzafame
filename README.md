@@ -1,12 +1,17 @@
 # 👋 Hello, I'm Flavio
 
-I'm a developer and graphic designer from Sicily, Italy. **I build things that look good and work well.**
+I'm a developer and graphic designer based in Sicily, Italy. **I build things that look good and work well.**
 
-I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. I love these worlds and enjoy continuously learning new things. Over time, I’ve developed both my programming and design skills, always focusing on learning by doing.  
+I've been passionate about computers and graphics since I was 4 years old — from designing birthday cards with PowerPoint to experimenting with Windows. I love these worlds and enjoy continuously learning new things. Over time, I've developed both my programming and design skills, always focusing on learning by doing.
 
-📚 I'm currently studying at ITET M. Rapisardi - L. da Vinci in Caltanissetta, specializing in **Computer Science & Telecommunications** — Computer Science track.
+---
 
-👨‍💻 I work on freelance projects for various clients, including PowerUp, a sports association with two gyms in Sicily, creating brand identity, website, social media content, and print materials.  
+### 🚀 What I'm currently working on
+
+* **Freelance projects**, designing and developing for various clients.
+* **PowerUp**, a sports association with two gyms in Sicily — creating brand identity, website, social media content, and print materials.
+* **Zeva Trip**, an all-in-one trip planning platform that connects any two cities by combining buses, flights, trains, and other transport options into a single, easy itinerary. I handle the graphic design side — logo, brand identity, and visual assets.
+* **School**, studying Computer Science & Telecommunications at ITET M. Rapisardi - L. da Vinci in Caltanissetta.
 
 ---
 
@@ -14,7 +19,6 @@ I've been passionate about computers and graphics since I was 4 years old — fr
 
 ### 🖥️ Tech Stack
 #### (currently learning and building)
-
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
