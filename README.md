@@ -8,10 +8,10 @@ I've been passionate about computers and graphics since I was 4 years old — fr
 
 ### 🚀 What I'm currently working on
 
-* **Freelance projects**, designing and developing for various clients.
-* **PowerUp**, a sports association with two gyms in Sicily — creating brand identity, website, social media content, and print materials.
-* **Zeva Trip**, an all-in-one trip planning platform that connects any two cities by combining buses, flights, trains, and other transport options into a single, easy itinerary. I handle the graphic design side — logo, brand identity, and visual assets.
-* **School**, studying Computer Science & Telecommunications at ITET M. Rapisardi - L. da Vinci in Caltanissetta.
+* 💼 **Freelance projects**, designing and developing for various clients.
+* 🏋️ **PowerUp**, a sports association with two gyms in Sicily — creating brand identity, website, social media content, and print materials.
+* ✈️ **Zeva Trip**, an all-in-one trip planning platform that connects any two cities by combining buses, flights, trains, and other transport options into a single, easy itinerary. I handle the graphic design side — logo, brand identity, and visual assets.
+* 🎓 **School**, studying Computer Science & Telecommunications at ITET M. Rapisardi - L. da Vinci in Caltanissetta.
 
 ---
 
